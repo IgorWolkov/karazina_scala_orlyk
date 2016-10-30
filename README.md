@@ -1,4 +1,4 @@
-**Repository for home works (Karazina - Scala group)**\br
+**Repository for home works (Karazina - Scala group)**
 _University:_ Karazina (Kharkov) 
 _Group:_ Scala 
 _Student:_ Alexander Orlyk
