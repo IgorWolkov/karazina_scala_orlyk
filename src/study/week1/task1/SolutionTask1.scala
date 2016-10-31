@@ -1,4 +1,4 @@
-package week1.task1
+package study.week1.task1
 
 /**
   * Created by orlyk on 30.10.16.
